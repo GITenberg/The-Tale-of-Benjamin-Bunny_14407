@@ -28,6 +28,8 @@ description: "The Tale of Benjamin Bunny is a children's book written and illust
   \ image, and Benjamin returned as an adult rabbit in the Flopsy Bunnies and Mr.\
   \ Tod. In 1992, Benjamin Bunny was adapted as an episode of the BBC animated television\
   \ series, The World of Peter Rabbit and Friends.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14407#The-Tale-of-Benjamin-Bunny
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2004-12-21'
 gutenberg_type: Text
