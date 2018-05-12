@@ -1,0 +1,54 @@
+_repo: The-Tale-of-Benjamin-Bunny_14407
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Potter, Helen Beatrix
+    - Heelis, Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tale of Benjamin Bunny is a children's book written and illustrated\
+  \ by Beatrix Potter, and first published by Frederick Warne & Co. in September 1904.\
+  \ The book is a sequel to The Tale of Peter Rabbit (1902), and tells of Peter's\
+  \ return to Mr. McGregor's garden with his cousin Benjamin to retrieve the clothes\
+  \ he lost there during his previous adventure. In Benjamin Bunny, Potter deepened\
+  \ the rabbit universe she created in Peter Rabbit, and, in doing so, suggested the\
+  \ rabbit world was parallel to the human world but complete and sufficient unto\
+  \ itself.\nBenjamin Bunny was an instant commercial and popular success, and thousands\
+  \ of copies were in print by the end of 1904. The Times Literary Supplement thought\
+  \ Potter's illustrations \"pencil perfect\", but suggested that she engage a literary\
+  \ assistant for future productions. Potter created a nursery wallpaper tapping Benjamin's\
+  \ image, and Benjamin returned as an adult rabbit in the Flopsy Bunnies and Mr.\
+  \ Tod. In 1992, Benjamin Bunny was adapted as an episode of the BBC animated television\
+  \ series, The World of Peter Rabbit and Friends.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2004-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14407'
+  wikidata: Q591892
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rabbits -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Tale of Benjamin Bunny
+url: http://www.gutenberg.org/ebooks/14407
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Conte_de_Jeannot_Lapin
+- https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%85%94%E7%8F%AD%E5%82%91%E6%98%8E
+- https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%9F%E3%83%B3%E3%83%90%E3%83%8B%E3%83%BC%E3%81%AE%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97
+- https://pt.wikipedia.org/wiki/The_Tale_of_Benjamin_Bunny
+- https://en.wikisource.org/wiki/The_Tale_of_Benjamin_Bunny
+- https://en.wikipedia.org/wiki/The_Tale_of_Benjamin_Bunny
+- https://commons.wikimedia.org/wiki/Category:The_Tale_of_Benjamin_Bunny
+- https://id.wikipedia.org/wiki/The_Tale_of_Benjamin_Bunny
